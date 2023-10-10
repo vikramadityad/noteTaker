@@ -51,6 +51,8 @@ The Note Taker application can be deployed on platforms like Heroku to make it a
 
 ## liveURL
 
+https://note-taker-camp-4d7836941c1d.herokuapp.com/
+
 ## Contributing
 
 If you would like to contribute to this project, please follow these guidelines:
