@@ -64,7 +64,7 @@ app.post('/api/notes', (req, res) => {
   });
 
   
-//   // Update an item
+//  Update an item
 app.put('/api/notes/:id', (req, res) => {
     const itemId = req.params.id;
     const updatedItem = req.body;
